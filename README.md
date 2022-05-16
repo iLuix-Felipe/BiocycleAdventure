@@ -93,6 +93,6 @@ Alienígenas sai de seu planeta com o objetivo de dominar a terra, chegando aqui
 
   * **Luiz Felipe de Souza Silva** 
   * **Mirian Andrielly Vital**
-  * **Vanessa Maria da Silva**
+  * **Vanessa Maria de Oliveira Silva**
 
  
