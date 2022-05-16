@@ -66,6 +66,10 @@ Tecnologias utilizadas no projeto.
 
 
 ![melle attack](https://github.com/iLuix-Felipe/BiocycleAdventure/blob/main/public/post6.png)
+
+### 6 - Chegue até checkpoints para salvar seu progresso na fase!!
+
+
 ![Double jump](https://github.com/iLuix-Felipe/BiocycleAdventure/blob/main/public/post7.png)
 
 
