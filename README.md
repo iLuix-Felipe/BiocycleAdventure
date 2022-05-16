@@ -1,134 +1,89 @@
 
-![Logo of the project](https://github.com/Lucasdfg07/Spotify_clone/blob/master/app/javascript/assets/images/logo.png)
+![Logo of the project](https://github.com/iLuix-Felipe/BiocycleAdventure/blob/main/public/logo.png)
 
 
-## SpotCode
-This application is an app clone of spotify made with Ruby (Back end) and ReactJS (Front end) to play musics, see artist's album, their music and made your day more musicable! Did on weekcode of OneBitCode.
+## BiocycleAdventure
+Essa é uma proposta de jogo para auxiliar no ensino da disciplina de Biologia no conteúdo de Ciclos Biogeoquímicos.
 
 
-## Technology 
+## Tecnologias
 
-Here are the technologies used in this project.
+Tecnologias utilizadas no projeto.
 
-* Ruby version  2.5.1
-* Rails version 6.0.2
-* SQLite3
+* Unity versão 2018.1
+* Photoshop
+* Visual Studio Code
 
-## Services Used
+## Serviços usados
 
 * Github
-
-## Ruby Gems
-
-* Devise
-* Bootstrap
-* JQuery-rails
-* Serviceworker Rails
-
+* Google drive
 
 ## Getting started
 
-* Dependency
-  - Ruby  
-  - Rails
-
-* To create and build your database accord of the project.
-  - rake db:create db:migrate
+* Instale o Winrar ou qualquer outro extraidor de arquivos.
+ 
+* Baixe a pasta compactada nesse repositório.
+   - exeBioAdventure
   
-* To create the previous files to use on the project, on the database.
-  - rake db:seed
+* Descompacte no seu computador.
+  - exeBioAdventure
   
-* To install the gems.
-  - bundle install
-  
-* To run the project.
-  - rails s
+* Rode o executável.
+  - biocycleAdventure.exe
 
-## How to use
+## Sobre o jogo.
 
-### 1 - When you access the project, you will see this initial page.
+### 1 - O jogo está dividida em 4 fases, cada uma é direcionada para um dos 4 ciclos principais.
 
-![Homepage image](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/17.png)
+    * Ciclo da água
+    * Ciclo do Oxigênio
+    * Ciclo do Nitrogênio
+    * Ciclo do Carbono
+    
+    ### Fase 1 (Inicio)
 
-### 2 - You can Login in the system if you have an account registered.
+![Inicio Fase 1](https://github.com/iLuix-Felipe/BiocycleAdventure/blob/main/public/post1.png)
 
-![Login](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/16.png)
+### 2 - Ultrapasse diversos desafios relacionados ao ciclo da fase pra se divertir no jogo.
 
-### 3 - Or simply create your account.
+![Atravessando o mar](https://github.com/iLuix-Felipe/BiocycleAdventure/blob/main/public/post2.png)
+![água poluida](https://github.com/iLuix-Felipe/BiocycleAdventure/blob/main/public/post5.png)
 
-![Sign up](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/15.png)
+### 3 - Recolha chaves pelo caminho para conseguir passar de fase.
 
-### 4 - This is the Dashboard!
+![keys](https://github.com/iLuix-Felipe/BiocycleAdventure/blob/main/public/post4.png)
 
-![Dashboard](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/14.png)
-![Dashboard](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/13.png)
+### 4 - Durante as fases, resolva o nosso sistema de quiz relacionado a temática da fase!
 
-### 5 - You can see more of an album clicking above it.
+![Quiz](https://github.com/iLuix-Felipe/BiocycleAdventure/blob/main/public/post3.png)
 
-![Dashboard](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/12.png)
-![Dashboard](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/11.png)
+### 5 - Utilize de habilidades especificas para conseguir fugir de alguns perigos!!
 
-### 6 - You can also search a music, artist or an album accord of it's category!!
-
-![Search tab](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/10.png)
-
-### 7 - Clicking on the category, will return:
-
-  #### 7.1 - It's albums registered.
-
-![Search Albums tab](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/9.png)
-
-  #### 7.2 - It's artists.
-
-![Search Artists tab](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/8.png)
-
-  #### 7.3 - It's musics.
-
-![Search Musics tab](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/7.png)
-
-### 8 - Clicking on the artist, you can see it's perfil like the image above.
-
-![Artist show](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/6.png)
-![Artist show](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/5.png)
-![Artist show](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/4.png)
-
-### 9 - You can access the favorite's tab too like:
-  #### 9.1 - Favorite Albums.
-![Artist show](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/3.png)
-
-  #### 9.2 - Favorite Artists.
-![Artist show](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/2.png)
-
-  #### 9.3 - Favorite Musics.
-![Artist show](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/1.png)
+![melle attack](https://github.com/iLuix-Felipe/BiocycleAdventure/blob/main/public/post6.png)
+![Double jump](https://github.com/iLuix-Felipe/BiocycleAdventure/blob/main/public/post7.png)
 
 
-## Features
+## História do jogo
 
-The main features of the application are:
- - Listen Songs.
- - Favorite Albums.
- - Favorite Artists.
- - Favorite Musics.
- - See Album's perfil.
- - See Artist's perfil.
- - Search albums, musics and artists.
+Alieniginas sai de seu planeta com o objetivo de dominar a terra, chegando aqui encontra diversos desafios para realizar seu objetivos: os problemas ambientais dos ciclos biogeoquimicos.
+ - ÁguaS poluidas
+ - Enchentes
+ - Buraco na câmada de ozônio
+ - Animais bravos
+ - NPCs hóstis
+ - Chuvas fortes
+  (...)
 
+  ## Versão do Jogo.
 
-## Links
-  - Repository: https://github.com/Lucasdfg07/Spotify_clone
-    - In case of sensitive bugs like security vulnerabilities, please contact
-      Lucassiqueiraferandes07@gmail.com directly instead of using issue tracker. We value your effort
-      to improve the security and privacy of this project!
-
-  ## Versioning
-
-  1.0.0.0
+  2.0.0.0
 
 
-  ## Authors
+  ## Autores
 
-  * **Lucas Siqueira Fernandes** 
+  * **Luiz Felipe de Souza Silva** 
+  * **Mirian Andrielly Vital**
+  * **Vanessa Maria da Silva**
 
-  Please follow github and join us!
-  Thanks to visiting me and good coding!
+ 
