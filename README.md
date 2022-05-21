@@ -3,7 +3,8 @@
 
 
 ## BiocycleAdventure
-Essa é uma proposta de jogo para auxiliar no ensino da disciplina de Biologia no conteúdo de Ciclos Biogeoquímicos.
+Essa é uma proposta de jogo para auxiliar no ensino da disciplina de Biologia no conteúdo de Ciclos Biogeoquímicos. Projeto de Pesquisa no IFRN!
+
 
 
 ## Tecnologias
